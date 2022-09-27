@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meriem Bchini</h1>
+<h1 align="center">Hi.. I'm Meriem Bchini</h1>
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://bestanimations.com/Computers/funny-computer-animated-gif-7.gif">
 <p align="left">
